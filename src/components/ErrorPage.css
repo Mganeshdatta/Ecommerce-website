@@ -1,0 +1,11 @@
+.error-code-container{
+    display: flex;
+    justify-content: center;
+    height: 80vh;
+    align-items: center;
+}
+.error-code{
+    color: black;
+    text-align: center;
+    font-size: 150px;
+}
