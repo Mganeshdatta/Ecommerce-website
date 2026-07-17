@@ -103,6 +103,7 @@
   justify-content: end;
 }
 
+
 .header .orders-link {
   color: white;
 
@@ -111,6 +112,7 @@
   padding-left: 13px;
   padding-right: 13px;
 }
+
 
 .header .orders-text {
   display: block;
